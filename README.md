@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fearsomeyangachief
-- 👀 I’m interested in phyton programming.
+- 👀 I’m interested in python programming.
 - 🌱 I’m currently learning phyton.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
